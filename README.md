@@ -1,6 +1,9 @@
 # POWER-BI-Project1_HR-Attrition-Dashboard
 ### Objective
 This project aims to develop a Power BI Dashboard to comprehend employee attrition and explore the factors contributing to turnover, facilitating the development of effective retention strategies. The goal is to enhance retention and strengthen the workforce through actionable insights presented in the dashboard.
+
+![alt text](./img/HR_Attrition_Dashboard.png.png)
+
 #### Dataset
 The dataset, sourced from Kaggle, IBM HR Analytics Employee Attrition & Performance, includes details such as employee demographics, job attributes, performance ratings, and attrition status, facilitating analysis and understanding of turnover factors.
 ### Steps Undertaken
