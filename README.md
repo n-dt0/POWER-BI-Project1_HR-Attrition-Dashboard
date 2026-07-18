@@ -45,11 +45,9 @@ The dataset, sourced from Kaggle, IBM HR Analytics Employee Attrition & Performa
 2. Employees working overtime left at nearly **3x the rate** of those who didn't (30.5% vs 10.4%) — the strongest predictor in the dataset
 3. **Sales Representatives** had the highest attrition by role at **39.8%**, over 15x higher than Research Directors (2.5%)
 4. Employees **under 25** left at **39.2%**, more than double the overall rate
-5. Departing employees earned roughly **330% less on average**3 ($4,787 vs $6,833/month) and had shorter tenure (5.1 vs 7.4 years) than those who stayed
+5. Departing employees earned roughly **30% less on average** ($4,787 vs $6,833/month) and had shorter tenure (5.1 vs 7.4 years) than those who stayed
 6. Performance rating showed almost no relationship to attrition (16.1% vs 16.4%) — the company isn't losing its top performers, it's losing overworked, underpaid, and early-career employees
 
 ### Recommendation
 Prioritize overtime monitoring and workload redistribution in Sales, and build a structured onboarding/retention track for employees under 25 and in their first two years — the two segments driving the majority of preventable turnover. Since performance rating isn't a differentiator, retention efforts should focus on compensation review and workload management rather than performance-based interventions.
 
-### Conclusion
-The analysis highlights areas where targeted interventions can enhance employee retention. By addressing factors like work-life balance and compensation, implementing strategies to support employees in high-turnover roles, and fostering a supportive work environment, the company can reduce attrition rates and improve organizational stability. Proactive measures aligned with these insights can lead to a more engaged and committed workforce, ultimately contributing to long-term success.
